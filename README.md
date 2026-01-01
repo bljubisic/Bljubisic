@@ -19,3 +19,13 @@
 <p align="center">
   <img width="82%" src="https://github-readme-streak-stats.herokuapp.com/?user=bljubisic&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
 </p>
+
+---
+
+### 🤝 Let's Connect!
+<p align="left">
+<a href="https://linkedin.com/in/bljubisic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bljubisic" height="30" width="40" /></a>
+<a href="https://hachyderm.io/@bljubisic" target="blank"><img align="center" src="https://joinmastodon.org/logos/logo-purple.svg" alt="bljubisic" height="30" width="40" /></a>
+</p>
+
+<br />
