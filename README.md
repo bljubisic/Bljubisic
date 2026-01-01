@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=bljubisic" alt="GitHub Streak" /></a>
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=bljubisic)](https://git.io/streak-stats)
 </p>
 
 ---
