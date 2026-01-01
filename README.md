@@ -16,7 +16,9 @@
 <img width="32%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bljubisic&layout=compact&langs_count=10&theme=dark"/>
 </p>
   
-[![GitHub Streak](https://github-readme-streak-stats-vijaypur.vercel.app?user=bljubisic)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-vijaypur.vercel.app?user=" alt="GitHub Streak" /></a>
+</p>
 
 ---
 
