@@ -15,3 +15,7 @@
 <img width="55%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bljubisic&show_icons=true&theme=dark"/>
 <img width="32%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bljubisic&layout=compact&langs_count=10&theme=dark"/>
 </p>
+
+<p align="center">
+  <img width="82%" src="https://github-readme-streak-stats.herokuapp.com/?user=bljubisic&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
+</p>
