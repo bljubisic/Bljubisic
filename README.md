@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img width="82%" src="https://github-readme-streak-stats.herokuapp.com/?user=bljubisic&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=bljubisic" alt="GitHub Streak" /></a>
 </p>
 
 ---
