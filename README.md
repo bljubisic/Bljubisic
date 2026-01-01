@@ -17,7 +17,7 @@
 </p>
   
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-vijaypur.vercel.app?user=" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-vijaypur.vercel.app?user=bljubisic" alt="GitHub Streak" /></a>
 </p>
 
 ---
