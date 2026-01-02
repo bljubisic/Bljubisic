@@ -6,7 +6,7 @@
 ### 🛠️ Tech Stack (current)
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=swift,apple,ts,js,angular,css,dart,flutter,git,github,graphql,heroku,linux,md,mastodon,mongodb,mysql,nodejs,npm,postgres,postman,py,rails,react,reactivex,ruby,sqlite,svelte,tailwind" />
+    <img src="https://skills.syvixor.com/api/icons?i=swift,apple,ios,ts,js,angular,css,dart,flutter,git,github,graphql,heroku,linux,md,mastodon,mongodb,mysql,nodejs,npm,postgres,postman,py,rails,react,reactivex,ruby,sqlite,svelte,tailwind" />
   </a>
 </p>
 
