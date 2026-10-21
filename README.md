@@ -17,7 +17,7 @@
 </p>
   
 <p align="center">
-  <a href="https://streak-stats.demolab.com"><img src="https://streak-stats.demolab.com/?user=bljubisic&theme=transparent" alt="GitHub Streak" /></a>
+  <a href="https://streak-stats.demolab.com"><img src="https://streak-stats.demolab.com/?user=bljubisic&theme=dark" alt="GitHub Streak" /></a>
 </p>
 
 ---
